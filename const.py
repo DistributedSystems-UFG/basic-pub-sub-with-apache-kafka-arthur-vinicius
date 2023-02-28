@@ -1,2 +1,6 @@
 BROKER_ADDR = '34.173.205.70'
+<<<<<<< HEAD
 BROKER_PORT = '9092'
+=======
+BROKER_PORT = '9092'
+>>>>>>> 761158e7ed7b515c13ded3ee6d89807475b62c1a
